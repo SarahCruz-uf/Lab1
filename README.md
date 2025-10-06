@@ -1,0 +1,1 @@
+Using the API Open-meteo the program prompts user for a city's name and outputs the longitude, latitude, and country of such city. A json file saves the outputs and places it in the file that holds the code.
